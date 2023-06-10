@@ -1,7 +1,7 @@
-# Creating a simple calculator application 
+# Creating a simple calculator application.
 # User is asked to enter two numbers and the operation (e.g. +, -, x, etc.) that they’d like to perform on the numbers. 
 # Display the answer to the equation. Every equation entered by the user should be written to a text file. 
-# Using defensive programming to write this program in a manner that is robust and handles unexpected events and user inpnumber
+# Using defensive programming to write this program in a manner that is robust and handles unexpected events and user inpnumber.
 
 print("Welcome to first simple calculator application")
 # While loops function to give the user a choice and repeat if answer is invalid.
