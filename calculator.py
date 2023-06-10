@@ -77,6 +77,6 @@ while True:
 
     # In case of invalid choice at the beginning following error will print and repeat the program.       
     else:
-        print("Ivalid choice! ")
+        print("Invalid choice! ")
             
 
